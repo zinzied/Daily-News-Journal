@@ -1,5 +1,7 @@
 This project is a `News Aggregator` application built using Python and the Tkinter library for the graphical user interface (GUI). The application fetches news from various RSS feeds, translates the news articles into different languages using the Google Translate API, and displays them in a user-friendly interface. It also supports dark mode for better readability in low-light conditions.
 
+![image](https://github.com/user-attachments/assets/8e7f4384-6e40-43ae-8e27-309bd79952ee)
+
 ### Features:
 1. **Fetch News**: Fetches news from multiple RSS feeds including BBC, CNN, Reuters, The Guardian, Al Jazeera, and TechCrunch.
 2. **Search Functionality**: Allows users to search for specific news articles based on keywords.
