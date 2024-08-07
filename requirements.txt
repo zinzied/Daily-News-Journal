@@ -1,0 +1,5 @@
+feedparser
+html2text
+aiohttp
+Pillow
+googletrans==4.0.0-rc1
